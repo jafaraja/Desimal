@@ -1,2 +1,7 @@
-# Desimal
-Decimal to Binary, Hexadecimal, and Octal
+### Decimal
+
+- Convert to Binary.
+- Convert to Hexadecimal.
+- Convert to Octal.
+
+Thanks.
